@@ -1,4 +1,4 @@
-# AIRPLAS V1: IoT-Integrated Multi-Spectral Smartphone Microscope
+# AirPlas: IoT-Integrated Multi-Spectral Smartphone Microscope
 
 AIRPLAS is a frontier technology project developed by ADA World Class IoT Developer Team. It transforms a standard smartphone into a professional-grade microscope by combining custom optics with an IoT-driven lighting system. This repository contains the firmware for the **XIAO ESP32-C3** and the documentation for the Cloud-to-Hardware integration.
 
